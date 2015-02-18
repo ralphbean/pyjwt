@@ -1,1 +1,3 @@
+graft tests
+include tox.ini
 include README.md
